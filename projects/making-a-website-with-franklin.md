@@ -10,7 +10,7 @@ Before we can get started with making a website using Franklin.jl, we have to fi
 Installation of any package in Julia follows the same format. Open up a Julia session (in your terminal app of choice or within Atom) and write `] add Franklin`. This will prompt Julia to retrieve and download Franklin and all of its dependencies. Once this is done, we can actually start to make the website!
 
 ## Initializing the Website
-(For more in-depth instructions about how to use Franklin.jl, there are great resources on the [GitHub page](https://www.markdownguide.org/getting-started/) and on the associated [documentation](https://www.markdownguide.org/getting-started/).)
+(For more in-depth instructions about how to use Franklin.jl, there are great resources on the [GitHub page](https://github.com/tlienart/Franklin.jl) and on the associated [documentation](https://franklinjl.org/).)
 
 Now that we have Julia and Franklin installed and ready to use, we can begin by initializing a website! First, in an active Julia session, we write `using Franklin` to let Julia know that we are going to be using Franklin. This will allow us to use all of Franklin's functionality right from the REPL.
 
